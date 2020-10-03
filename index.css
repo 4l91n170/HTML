@@ -3,8 +3,7 @@
 * {
     background-color: darkgrey;
 }
-/* 
-/* Selector de elemento*/ 
+ /* Selector de elemento*/ 
 h1 {
    color: darkred;
 }
@@ -28,4 +27,6 @@ ul li {
     color: darkgreen;
 }
 /* pseudolectores */
+/* pseudo elementos */
 
+/* pseudo clases */
