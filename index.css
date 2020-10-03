@@ -1,0 +1,31 @@
+/* selectores CSS (cascade style sheet */
+/* Selector Universal*/
+* {
+    background-color: darkgrey;
+}
+/* 
+/* Selector de elemento*/ 
+h1 {
+   color: darkred;
+}
+/* Selctor Múltiple */
+h3,h2 {
+    color: crimson;
+}
+/* Selector de hijo*/ 
+ol li {
+    color: brown;
+}
+ul li {
+    color: peru;
+}
+/* Selector de Clase */
+.title { 
+    color: darkblue;
+}
+/* Selector de ID (solo usar en una sola cosa) */
+#color {
+    color: darkgreen;
+}
+/* pseudolectores */
+
